@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="vizualizari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="group_si_having.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meniu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="continut_tabele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="modificat_tabele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tabele_functii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
