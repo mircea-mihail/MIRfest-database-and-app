@@ -12,3 +12,4 @@ Interfata a fost facuta simplist in Visual Studio, cu un Forms template. Exemple
 - interogarea cu having are in having ceva ce putea fi pus si intr-un where -> ar fi trebuit sa pun o funcite specifica grupurilor acolo.
 - prima vizualizare implementata nu permite LMD. Doar cu datele din tabelul intermediar "contine" ar fi putut, dar id-ul trupei si id-ul artistului au fost luate din entitatile "trupe" si "artisti", nu din "contine"
 - a doua vizualizare nu este complexa. O astfel de vizualizare trebuie sa nu permita utilizatorului sa modifice datele din tabele.
+- nota finala: un 8 indulgent
