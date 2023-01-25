@@ -8,7 +8,7 @@ Baza de date este stocata in Microsoft SQL Server si implementata cu Microsoft S
 Interfata a fost facuta simplist in Visual Studio, cu un Forms template. Exemple cu felul in care aceasta functioneaza sunt in pdf-ul "documentatie_interfata.pdf".
 
 ## Feedback-ul cursantului
-- documentatie facuta in graba: detalii scapate printre crapaturi precum numarul de telefon fiind varchar(100) si constrangeri neexplicate
+- documentatie facuta in graba: detalii scapate printre crapaturi precum numarul de telefon fiind varchar(100) si constrangeri neexplicate (ar fi trebuit sa intru in detalii legate de comportamentul bazei de date cand se sterg linii din tabele cu on delete cascade/ on delete set null. Ce se intampla pentru fiecare astfel de constrangere)
 - interogarea cu having are in having ceva ce putea fi pus si intr-un where -> ar fi trebuit sa pun o funcite specifica grupurilor acolo.
 - prima vizualizare implementata nu permite LMD. Doar cu datele din tabelul intermediar "contine" ar fi putut, dar id-ul trupei si id-ul artistului au fost luate din entitatile "trupe" si "artisti", nu din "contine"
 - a doua vizualizare nu este complexa. O astfel de vizualizare trebuie sa nu permita utilizatorului sa modifice datele din tabele.
